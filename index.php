@@ -6,7 +6,7 @@
 
 <?php
 
-echo "<center><h2>How are you getting on ? 4.0 :-)  </h2></center>";
+echo "<center><h2>How are you getting on ? 5.0 :-)  </h2></center>";
 
 ?>
 
