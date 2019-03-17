@@ -6,8 +6,8 @@
 
 <?php
 
-//echo "<center><h2>How are you getting on :-) V22  </h2></center>";
-  phpinfo();
+echo "<center><h2>How are you getting on :-) V22  </h2></center>";
+  
 
 ?>
 
