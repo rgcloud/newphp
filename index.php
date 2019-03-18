@@ -13,8 +13,8 @@ echo "<center><h2>How are you getting on :-)   </h2></center>";
 
 ?>
   
-  </center><h2><p><font color="blue">Production v1.0 Blue Deployment!</font></p></h2></center>
-  //</center><h2><p><font color="green">Production v1.0 Green Deployment!</font></p></h2></center>
+  <center><h2><p><font color="blue">Production v1.0 Blue Deployment!</font></p></h2></center>
+##<center><h2><p><font color="green">Production v1.0 Green Deployment!</font></p></h2></center>
   
 </body>
 </html>
