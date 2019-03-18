@@ -3,8 +3,7 @@
 <body>
 <title> ..:::: Welcome To SGcloud ::::.. </title>
   
-  <IMG SRC="P1.jpg" ALT="some text" WIDTH=300 HEIGHT=200>
-  //<IMG SRC="P2.jpg" ALT="some text" WIDTH=300 HEIGHT=200>
+  <img src="P1.jpg" alt="Girl in a jacket" width="50" height="60">
 <center> <h1> Welcome To Our Openshift DevOps(CI/CD) Project</h1> </center>
 
 <?php
