@@ -8,12 +8,13 @@
 
 <?php
 
-echo "<center><h2>How are you getting on :-) V2.0  </h2></center>";
+echo "<center><h2>How are you getting on :-)   </h2></center>";
   
 
 ?>
   
+  </center><h2><p><font color="blue">Production v1.0 Blue Deployment!</font></p></h2></center>
+  //</center><h2><p><font color="green">Production v1.0 Green Deployment!</font></p></h2></center>
   
-  <center><img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345"></center>
 </body>
 </html>
