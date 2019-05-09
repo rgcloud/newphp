@@ -8,12 +8,12 @@
 
 <?php
 
-echo "<center><h2>How are you getting on1 :-)   </h2></center>";
+echo "<center><h2>How are you getting on :-)   </h2></center>";
   
 
 ?>
   
-  <center><h2><p><font color="blue">Production v2.0 Green Deployment!</font></p></h2></center>
+  <center><h2><p><font color="green">Production v2.0 Green Deployment!</font></p></h2></center>
 
   
 </body>
